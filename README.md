@@ -88,6 +88,9 @@ Distributed under the MIT License. See [LICENSE](https://github.com/zOmbix0ploit
 
 To obtain a license key, please make a payment to one of the cryptocurrency addresses listed below.
 
+### PRO LICENSE ⭐
+**Price: $8.5 USD (One-time payment)**
+
 - **Bitcoin (BTC):** `1CqSdWymQunK6GoRUsTpRxstqfpxTSKyC7`
 - **Ethereum (ETH):** `0x8edc525e8f1e814bba5939c5972aecb3041c9b80`
 - **Litecoin (LTC):** `LZ2ht5Q5bcL3iWaP5jVcTc5kg3Vb6T6Vet`
